@@ -5,6 +5,7 @@ Software Engineer
 -----------------
 
 *   🌍  I'm based in Cologne, Germany
+*   Also on  <a href="https://gitlab.com/BanditsBacon" target="_blank" rel="noreferrer">Gitlab</a>
 
 ### Skills 
 <p align="left">
